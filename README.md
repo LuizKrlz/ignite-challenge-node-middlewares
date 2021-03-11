@@ -4,6 +4,9 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+  <a href="https://github.com/LuizKrlz/ignite-challenge-node-middlewares/actions/workflows/npm-publish.yml" target="_blank">
+    <img src="https://github.com/LuizKrlz/ignite-challenge-node-middlewares/actions/workflows/npm-publish.yml/badge.svg" alt="Tests" />
+  </a>
 </p>
 
 > This is a challenge for course ignite at Rocketseat
@@ -24,13 +27,14 @@ yarn test
 
 👤 **Luiz Carlos Rocha Correa**
 
-* Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
-* Github: [@luizkrlz](https://github.com/luizkrlz)
-* LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
+- Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
+- Github: [@luizkrlz](https://github.com/luizkrlz)
+- LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
